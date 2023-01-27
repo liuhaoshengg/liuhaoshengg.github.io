@@ -56,13 +56,13 @@
 [![Aryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=AryanP45&theme=github-dark)](https://github.com/AryanP45)
 
 -->
-![Metrics](https://github.com/AryanP45/blob/master/github-metrics.svg)
+![Metrics](https://github.com/AryanP45/AryanP45/blob/master/github-metrics.svg)
 <hr>
 
-![issue-pull](https://github.com/AryanP45/blob/master/metrics.plugin.followup.user.svg)
+![issue-pull](https://github.com/AryanP45/AryanP45/blob/master/metrics.plugin.followup.user.svg)
 <hr>
 
-![Activity](https://github.com/AryanP45/blob/master/metrics.plugin.activity.svg)
+![Activity](https://github.com/AryanP45/AryanP45/blob/master/metrics.plugin.activity.svg)
 <hr>
 
 ### :link: Connect with me:
