@@ -1,5 +1,5 @@
 # liuhaoshengg.github.io
-### :link: Connect with me:
+### :link: 联系方式:
 
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Patil_Aryan_)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/aryan_45910)
