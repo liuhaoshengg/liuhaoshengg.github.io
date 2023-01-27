@@ -1,6 +1,6 @@
 # liuhaoshengg.github.io
 
-### 👨‍💻: 我的数据:
+### 👨‍💻 我的数据:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuhaoshengg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
